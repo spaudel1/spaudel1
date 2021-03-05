@@ -81,13 +81,16 @@ These are some of the major technologies that I use or have worked on in the pas
 
 </tr>
 <tr>
-  <td align="center" width="50%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman"> 
   </td>
 
- <td align="center" width="50%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://logos-download.com/wp-content/uploads/2020/06/SoapUI_Logo.png" alt="SOAP UI"> 
   </td>
+
+
+</tr>
 
 </tbody>
 </table>
