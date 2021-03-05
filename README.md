@@ -10,32 +10,32 @@ I am currently working on Payload Technologies as QA Lead. For more information 
 
 These are some of the major technologies that I use or have worked on in the past:
 
-<br><br>
-**Programming Languages**
+
+ **Programming Languages**
 <table>
 <tbody>
 <tr>
 
-  <td align="center" width="50%">
+  <td align="center" width="20%">
   <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
 
-  <td align="center" width="50%" >
+  <td align="center" width="20%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
   </td>
 
-  </tr>
-  <tr>
-
-  <td align="center" width="50%" >
+  <td align="center" width="20%" >
   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
   </td>
 
-  <td align="center" width="50%" >
+  <td align="center" width="20%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
   </td>
-  </tr>
 
+  <td align="center" width="20%" >
+  <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
+  </td>
+  
 </tr>
 </tbody>
 </table>
@@ -74,23 +74,22 @@ These are some of the major technologies that I use or have worked on in the pas
 **Web development**
 <table>
 <tbody>
+
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=70px src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png"> 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
-</tr>
 
- <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
 
@@ -104,7 +103,8 @@ These are some of the major technologies that I use or have worked on in the pas
 **Database**
 <table>
 <tbody>
- <tr>
+
+<tr>
 <td align="center" width="33%">
 <img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
 </td>
@@ -114,8 +114,26 @@ These are some of the major technologies that I use or have worked on in the pas
 </td>
 
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
+
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
+</td>
+
+<td align="center" width="33%">
+<img height=70px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
+</td>
+
 
 </tr>
 
