@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Shaswat. I am a Lead Test developer from Alberta, Canada. 
+I'm Shaswat. I am a Lead Test developer from Alberta, Canada.
 
 I'm currently working on Payload Technologies as QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 
@@ -10,8 +10,8 @@ I'm currently working on Payload Technologies as QA Lead. For more information a
 
 These are some of the major technologies that I use or have worked on in the past:
 
+**Programming Languages**
 
- **Programming Languages**
 <table>
 <tbody>
 <tr>
@@ -25,7 +25,7 @@ These are some of the major technologies that I use or have worked on in the pas
   </td>
 
   <td align="center" width="33%" >
-  <img height=80px src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"> 
+  <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
   </td>
 
   </tr>
@@ -36,7 +36,7 @@ These are some of the major technologies that I use or have worked on in the pas
   </td>
 
   <td align="center" width="33%" >
-  <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
+  <img height=80px src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"> 
   </td>
 
   <td align="center" width="33%" >
@@ -47,7 +47,8 @@ These are some of the major technologies that I use or have worked on in the pas
 </tbody>
 </table>
 
- **Test Automation Frameworks**
+**Test Automation Frameworks**
+
 <table>
 <tbody>
 <tr>
@@ -58,7 +59,6 @@ These are some of the major technologies that I use or have worked on in the pas
   <td align="center" width="33%" >
   <img height=60px src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg" alt="Selenium Webdriver"> 
   </td>
-
 
   <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha"> 
@@ -80,12 +80,22 @@ These are some of the major technologies that I use or have worked on in the pas
   </td>
 
 </tr>
+<tr>
+  <td align="center" width="50%" >
+  <img height=60px src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="Postman"> 
+  </td>
+
+ <td align="center" width="50%" >
+  <img height=60px src="https://logos-download.com/wp-content/uploads/2020/06/SoapUI_Logo.png" alt="SOAP UI"> 
+  </td>
+
 </tbody>
 </table>
 
 <br>
 
 **Web development and frameworks**
+
 <table>
 <tbody>
 
@@ -102,7 +112,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
 </td>
 
-
 <td align="center" width="20%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -111,16 +120,12 @@ These are some of the major technologies that I use or have worked on in the pas
 <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
 </td>
 
-
-
 </tr>
 </tbody>
 </table>
 
-
-
-
 **Database**
+
 <table>
 <tbody>
 
@@ -136,7 +141,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <td align="center" width="33%">
 <img height=70px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> 
 </td>
-
 
 </tr>
 
@@ -154,7 +158,6 @@ These are some of the major technologies that I use or have worked on in the pas
 <img height=70px src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"> 
 </td>
 
-
 </tr>
 
 </tr>
@@ -166,7 +169,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <br>
 
 ### Here is a random meme for you, to make your day better
-(*PS: Refresh the page to see a new meme* :wink: )
+
+(_PS: Refresh the page to see a new meme_ :wink: )
 
 <a href="https://github.com/techytushar/random-memer"><img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400"></a>
-
