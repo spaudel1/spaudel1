@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm Shaswat. I am a Lead Test developer from Alberta, Canada. 
+I'm Shaswat. I am a Lead Test developer from Alberta, Canada. 
 
-I am currently working on Payload Technologies as QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
+I'm currently working on Payload Technologies as QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 
 <br>
 
@@ -16,50 +16,67 @@ These are some of the major technologies that I use or have worked on in the pas
 <tbody>
 <tr>
 
-  <td align="center" width="20%">
+  <td align="center" width="33%">
   <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"> 
   </td>
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"> 
   </td>
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
+  <img height=80px src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png"> 
+  </td>
+
+  </tr>
+  <tr>
+ 
+  <td align="center" width="33%" >
   <img height=80px src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png"> 
   </td>
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=80px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
   </td>
 
-  
+  <td align="center" width="33%" >
+  <img height=80px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
+  </td>
+
 </tr>
 </tbody>
 </table>
 
- **Test Automtion Frameworks**
+ **Test Automation Frameworks**
 <table>
 <tbody>
 <tr>
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://github.com/simple-icons/simple-icons/blob/master/icons/webdriverio.svg" alt="Webdriver IO" > 
   </td>
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://github.com/detain/svg-logos/blob/master/svg/selenium-logo.svg" alt="Selenium Webdriver"> 
   </td>
 
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg" alt="Mocha"> 
   </td>
 
-  <td align="center" width="20%" >
+</tr>
+<tr>
+
+  <td align="center" width="33%" >
   <img height=60px src="https://www.vectorlogo.zone/logos/chaijs/chaijs-ar21.svg" alt="Chai" > 
   </td>
 
-  <td align="center" width="20%" >
+  <td align="center" width="33%" >
   <img height=60px src="https://cdn.svgporn.com/logos/appium.svg" alt="Appium"> 
+  </td>
+
+  <td align="center" width="33%" >
+  <img height=60px src="https://rest-assured.io/img/name-transparent.png" alt="Rest Assured"> 
   </td>
 
 </tr>
@@ -93,6 +110,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <td align="center" width="20%">
 <img height=60px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> 
 </td>
+
 
 
 </tr>
