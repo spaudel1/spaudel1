@@ -108,6 +108,27 @@ These are some of the major technologies that I use or have worked on in the pas
 
 <br>
 
+**Test Management tools**
+
+<table>
+<tbody>
+<tr> 
+
+<td align="center" width="50%" >
+<img height=60px src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="Jira Software"> 
+</td>
+
+<td align="center" width="50%" >
+<img height=60px src="https://assets.cdntpondemand.com/content/themes/targetprocess/img/com-logo/tp-3.svg?t=202132153541" alt="Target Process"> 
+</td> 
+
+</tr>
+</tbody>
+</table>
+
+
+<br>
+
 **Web development and frameworks**
 
 <table>
