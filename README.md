@@ -89,7 +89,6 @@ These are some of the major technologies that I use or have worked on in the pas
   <img height=60px src="https://logos-download.com/wp-content/uploads/2020/06/SoapUI_Logo.png" alt="SOAP UI"> 
   </td>
 
-
 </tr>
 
 </tbody>
@@ -126,6 +125,22 @@ These are some of the major technologies that I use or have worked on in the pas
 </tr>
 </tbody>
 </table>
+
+
+**Mobile Development Framework**
+
+<table>
+<tbody>
+
+<tr>
+<td align="left" width="25%">
+<img height=60px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter"> 
+</td>
+
+</tr>
+</tbody>
+</table>
+
 
 **Database**
 
