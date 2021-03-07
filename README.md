@@ -89,7 +89,19 @@ These are some of the major technologies that I use or have worked on in the pas
   <img height=60px src="https://logos-download.com/wp-content/uploads/2020/06/SoapUI_Logo.png" alt="SOAP UI"> 
   </td>
 
+  <td align="center" width="33%" >
+  <img height=60px src="http://jmeter.apache.org/images/logo.svg" alt="Jmeter"> 
+  </td>
+
 </tr>
+
+<tr>
+  <td align="center" width="33%" >
+  <img height=60px src="https://portswigger.net/content/images/logos/burpsuite-logo-large.svg" alt="Burp suite"> 
+  </td>
+
+</tr>
+
 
 </tbody>
 </table>
