@@ -2,7 +2,7 @@
 
 I'm Shaswat. I am a Lead Test developer from Alberta, Canada.
 
-I'm currently working on Payload Technologies as QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
+I'm currently working on Ezops QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 
 <br>
 
