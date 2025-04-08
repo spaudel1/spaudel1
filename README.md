@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Shaswat. I am a Lead Test developer from Alberta, Canada.
+I'm Shaswat. I am a QA Manager and Test Developer from Alberta, Canada.
 
-I'm currently working on Ezops QA Lead. For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
+For more information about me, check me out on [linkedin.](https://www.linkedin.com/in/shaswat-paudel-bb1934a7/)
 
 <br>
 
